@@ -9,6 +9,7 @@ Mendukung fitur:
 * **Simulasi LP Mint**
 
 **Dibuat oleh:** Ajoika\_Feb @CTeam
+![Interface](assets/image.png)
 
 ---
 
