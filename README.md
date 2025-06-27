@@ -166,4 +166,5 @@ rich
 ## ✨ Kredit
 
 Dibuat oleh **Ajoika\_Feb @CTeam**.
+
 Join DC : [Ajoika_Feb](https://discord.gg/KzVBHKf9ck)
